@@ -1,4 +1,4 @@
-# Responsive - Nicolas Gonzalez Berrio - 22026-611
+# Responsive - Hecho por Nicolas Gonzalez Berrio - 22026-611
 Base: github.com/uniajc-gperezm/responsive-design-media-query
 
 Estructura: css/styles.css, README.md, index.html
